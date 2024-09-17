@@ -8,7 +8,7 @@ Lenguaje:
 Cómo Ejecutar:
 
 1. Clona el repositorio:
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/TaniaMelisa/Pigmalion.git
 
 2. Navega al directorio del proyecto:
    cd Pigmalion
